@@ -1,0 +1,10 @@
+C:\Users\Kempo\OneDrive\Visual Studio 2017\Projects\alanf\alanf\bin\Debug\netcoreapp1.1\alanf.deps.json
+C:\Users\Kempo\OneDrive\Visual Studio 2017\Projects\alanf\alanf\bin\Debug\netcoreapp1.1\alanf.runtimeconfig.json
+C:\Users\Kempo\OneDrive\Visual Studio 2017\Projects\alanf\alanf\bin\Debug\netcoreapp1.1\alanf.runtimeconfig.dev.json
+C:\Users\Kempo\OneDrive\Visual Studio 2017\Projects\alanf\alanf\bin\Debug\netcoreapp1.1\alanf.dll
+C:\Users\Kempo\OneDrive\Visual Studio 2017\Projects\alanf\alanf\bin\Debug\netcoreapp1.1\alanf.pdb
+C:\Users\Kempo\OneDrive\Visual Studio 2017\Projects\alanf\alanf\obj\Debug\netcoreapp1.1\alanf.csprojResolveAssemblyReference.cache
+C:\Users\Kempo\OneDrive\Visual Studio 2017\Projects\alanf\alanf\obj\Debug\netcoreapp1.1\UserSecretsAssemblyInfo.cs
+C:\Users\Kempo\OneDrive\Visual Studio 2017\Projects\alanf\alanf\obj\Debug\netcoreapp1.1\alanf.AssemblyInfo.cs
+C:\Users\Kempo\OneDrive\Visual Studio 2017\Projects\alanf\alanf\obj\Debug\netcoreapp1.1\alanf.dll
+C:\Users\Kempo\OneDrive\Visual Studio 2017\Projects\alanf\alanf\obj\Debug\netcoreapp1.1\alanf.pdb
